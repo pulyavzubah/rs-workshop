@@ -2,4 +2,4 @@ some text for header
 
 some text made in vim
 
-changes from master
+changes from master - new changes!

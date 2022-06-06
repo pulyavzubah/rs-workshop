@@ -1,5 +1,6 @@
 some text for header
-
 some text made in vim
+changes from master
+changes from <first>
 
-changes from master - new changes!
+Text from master: new changes!
